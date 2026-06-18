@@ -103,3 +103,5 @@ examples/jeopardy/results.txt
 poetry.lock
 poetry.toml
 nppBackup
+
+/install*/
